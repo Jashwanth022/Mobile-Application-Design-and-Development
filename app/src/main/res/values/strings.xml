@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Financial Dashboard</string>
+    <string name="select_day">Select Day</string>
+    <string name="amount_hint">Amount ($)</string>
+    <string name="update_data">Update Data</string>
+    <string name="daily_expenses">Daily Expenses</string>
+    <string name="spending_trend">Spending Trend</string>
+    <string name="expense_distribution">Expense Distribution</string>
+    <string name="total_expense_format">Total Expense: $%s</string>
+    <string name="highest_spending_format">Highest Spending: %1$s ($%2$s)</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="invalid_amount">Invalid amount</string>
+</resources>
