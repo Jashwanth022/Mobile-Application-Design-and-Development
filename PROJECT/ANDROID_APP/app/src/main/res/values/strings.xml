@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockVision</string>
+    <string name="disclaimer">Educational purpose only. Not financial advice.</string>
+    <string name="ai_powered">AI-powered stock insights</string>
+    <string name="next_day">Next Day Predictions</string>
+    <string name="next_week">Next Week Predictions</string>
+    <string name="next_month">Next Month Predictions</string>
+    <string name="top_pick">Top Pick</string>
+    <string name="other_predictions">Other Predictions</string>
+    <string name="search_stocks">Search stocks...</string>
+    <string name="search_icon_desc">Toggle search bar</string>
+</resources>
