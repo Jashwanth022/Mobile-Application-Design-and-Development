@@ -1,0 +1,26 @@
+com.example.basic_calculator
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font alegreya_sc_italic
+font alegreya_semibold
+font averia_libre
+id btnadd
+id btndiv
+id btnmod
+id btnmul
+id btnsub
+id main
+id textView
+id txtResult
+id txtno1
+id txtno2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_Basic_Calculator
+style Theme_Basic_Calculator
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,20 @@
+com.example.checkincheckout
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font alegreya_semibold
+font arbutus_slab
+id main
+id textView
+id textView2
+id txtCheckIn
+id txtCheckOut
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_CheckInCheckOut
+style Theme_CheckInCheckOut
+xml backup_rules
+xml data_extraction_rules

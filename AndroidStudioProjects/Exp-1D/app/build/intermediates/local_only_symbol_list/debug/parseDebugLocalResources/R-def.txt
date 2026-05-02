@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font alegreya_medium
+font alegreya_sc_medium
+font alegreya_semibold
+id btnCtoF
+id btnFtoC
+id main
+id textView
+id txtResult
+id txtTemp
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TemperatureConvertor
+style Theme.TemperatureConvertor
+xml backup_rules
+xml data_extraction_rules
